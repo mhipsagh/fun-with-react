@@ -27,6 +27,7 @@ After creation, your project should look like this:
 react-for-fun/
   README.md
   node_modules/
+  .gitignore
   package.json
   public/
   src/
