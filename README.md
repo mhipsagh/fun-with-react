@@ -6,8 +6,8 @@ This projet was created for the purpose to aid me in understanding the whats & h
 2. [Folder Structure](#folder-structure)
 3. [NPM Scripts](#npm-scripts)
 4. [Journey to understanding React](#journey-to-understanding-react)
-	* [Prelude](#journey-to-understanding-react-prelude) `TL:DR`
-	* [A tuturial on React & Redux]()
+	* [Prelude](#prelude) `TL:DR`
+	* [A tuturial on React & Redux](#a-tuturial-on-react--redux)
 
 ## Introduction
 
